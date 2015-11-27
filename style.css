@@ -1,0 +1,67 @@
+/* CSS Document */
+
+a{text-decoration:none; color: #FFFFFF;}
+a:link{text-decoration:none; color: #FFFFFF;}
+a:visited{text-decoration:none; color: #FFFFFF;}
+a:hover{color: #999999;}
+
+
+.body_white{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-style: normal;
+}
+
+img {
+  width: 200px;
+}
+
+span.name {
+  color: #FFFFFF;
+  font-size: 61px;
+  font-family: 'Alex Brush', cursive;
+  text-align: center;
+  position: absolute;
+  margin: 95px auto auto 50px;
+  position: absolute;
+}
+
+
+.about_heading_white{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 21px;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-style: normal;
+	text-align: left;	
+}
+
+.about_body_white{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-style: normal;
+	text-align: left;	
+}
+
+
+.about_contact_heading_white{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 21px;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-style: normal;
+	text-align: center;	
+}
+
+.about_contact_body_white{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-style: normal;
+	text-align: center;	
+}
